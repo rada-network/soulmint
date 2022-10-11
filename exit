@@ -1,0 +1,241 @@
+[33mcommit 926f9d5eeb96f638df5e993c795b6d20e207e561[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: af66df1 d1066cf
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 21 17:06:21 2022 +0700
+
+    Merge branch 'develop' of github.com:rada-network/app.rada.works into develop
+
+[33mcommit af66df11c5ea3ae1e148a88aa82e4ba93d6b6b65[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 21 17:05:54 2022 +0700
+
+    Tuning for Logo
+
+[33mcommit d1066cfe191026a3513e80b04cbacd78942320f0[m
+Merge: 77cf74e cc479dc
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Thu Jul 21 16:33:29 2022 +0700
+
+    Merge branch 'develop' of https://github.com/rada-network/app.rada.works into develop
+
+[33mcommit 77cf74e5b22fbd294879283aa2000eff0b57bcb6[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Thu Jul 21 16:33:11 2022 +0700
+
+    add howitwork component
+
+[33mcommit cc479dc06ed6352755d70421dd485d29663f03f7[m
+Merge: 067f59e 1cec172
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 21 16:32:26 2022 +0700
+
+    Merge branch 'develop' of github.com:rada-network/app.rada.works into develop
+
+[33mcommit 067f59e7984755d0277a9c462f624d1862279019[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 21 16:31:57 2022 +0700
+
+    Added more codes for submiting Job informaions.
+
+[33mcommit db446ec3a0c215bec75d0b85d7468071c814e86a[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 21 16:28:51 2022 +0700
+
+    Added more codes for submiting Job informaions.
+
+[33mcommit 1cec172366cb398ee9872279b559b0a925d45ce0[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Thu Jul 21 16:01:28 2022 +0700
+
+    updated joblist component
+
+[33mcommit 6aeaceae7b218251761eb5e3740debf2fc3106cb[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Wed Jul 20 15:23:36 2022 +0700
+
+    update homeTmpl
+
+[33mcommit fa8db801d195fb9811b6f72b43414dd751eb0fe5[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Wed Jul 20 15:22:59 2022 +0700
+
+    updated joblisting components
+
+[33mcommit ce166740956652d5b66c179d15313b4f1bf714cc[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Wed Jul 20 15:18:03 2022 +0700
+
+    Finetuning for templates structure.
+
+[33mcommit edee9eb5307d939cadda5afd56a4e19e45350921[m
+Merge: c5bb22c 645919d
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Wed Jul 20 14:23:12 2022 +0700
+
+    Merge branch 'develop' of github.com:rada-network/app.rada.works into develop
+
+[33mcommit c5bb22c9c22acbe130fc9c898b59fde9bbe07a1a[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Wed Jul 20 14:22:42 2022 +0700
+
+    Tuning for GraphQl Endpoint declaration.
+
+[33mcommit 645919d08878111edf2dfeb49962e01bfb37a057[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Wed Jul 20 13:57:17 2022 +0700
+
+    updated joblisting components
+
+[33mcommit ccfcda0933fa11316fb83bcd3ac99f12a9c7376c[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Wed Jul 20 13:20:58 2022 +0700
+
+    Finetuning function on job submition.
+
+[33mcommit f22f8d294330137be1a6ef4e8de66293c6b72d0a[m
+Merge: 132f785 e7c140d
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Tue Jul 19 16:41:36 2022 +0700
+
+    Merge branch 'develop' of https://github.com/rada-network/app.rada.works into develop
+
+[33mcommit e7c140d716afd9d6dc699572d11525c87f21ecc1[m
+Merge: 692726e 8ae2cda
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Tue Jul 19 16:13:24 2022 +0700
+
+    Finetuning and Added code for Submit Job Form and related functions.
+
+[33mcommit 692726e5f99768b4ccba3a1515239f769a4fe42d[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Tue Jul 19 16:09:07 2022 +0700
+
+    Finetuning and Added code for Submit Job Form and related functions.
+
+[33mcommit 132f7854797054e975fa1f967577c86988777958[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Tue Jul 19 15:22:30 2022 +0700
+
+    updated build footer component
+
+[33mcommit 8ae2cdaf7f7c67ecd7605c8e025a36d5097e21ea[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Mon Jul 18 17:04:54 2022 +0700
+
+    updated footer component
+
+[33mcommit 646db2ad51533de7c9eef3739268864ae4b9d6b4[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Mon Jul 18 15:04:33 2022 +0700
+
+    add component joblisting
+
+[33mcommit 0c139094f44f1c603248c01f66641654b02433f2[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Mon Jul 18 13:39:53 2022 +0700
+
+    update hero button
+
+[33mcommit e9c37a1540f8e58b4a7cf0e6cbd1f195cac3400b[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Mon Jul 18 13:02:07 2022 +0700
+
+    Finetuning for Header
+
+[33mcommit de66b4e941161b4378c9620ea2c8e3bff873e35d[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Mon Jul 18 10:58:40 2022 +0700
+
+    Finetuning for Heros component.
+
+[33mcommit dbf65b09975d1d7fef7c7e17abc567cee900e808[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Sun Jul 17 21:37:58 2022 +0700
+
+    updated hero component
+
+[33mcommit 8cce4e74ac3d93fe9a1562ea534ad3ecb9ff2cf8[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Fri Jul 15 16:11:33 2022 +0700
+
+    Finetuning for HomePage
+
+[33mcommit 8f964e98e13f5dbd8ed51c9d9455b92be0f0e6a4[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Fri Jul 15 11:16:59 2022 +0700
+
+    Finetuning for Submit Job page.
+
+[33mcommit 8c235c6f6b85f390bce7a96f944232156303573c[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Fri Jul 15 10:53:25 2022 +0700
+
+    Finetuning logout function.
+
+[33mcommit 31d23bbadd2bb1399de5854b27e51dc42ce7e436[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Fri Jul 15 10:38:01 2022 +0700
+
+    Finetuning for Header component and disconnect Wallet function.
+
+[33mcommit 1148bff89a9ebd6f45ca33c58affe142d30b8260[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 14 22:03:40 2022 +0700
+
+    Finetuning and added general genders for job creation.
+
+[33mcommit b35392c9b4b619b0c059a718a9249d8ea981752f[m
+Merge: 1ad5239 942bc89
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 14 17:17:39 2022 +0700
+
+    Merge branch 'develop' of github.com:rada-network/app.rada.works into develop
+
+[33mcommit 1ad5239d9d3380a8a7fd87542e6fb4a106f58f21[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 14 17:17:09 2022 +0700
+
+    Finetuning and added general genders for job creation.
+
+[33mcommit 942bc891f469a122a81f02adff6d83953803a864[m
+Merge: 56d635e 791f4ef
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Thu Jul 14 13:34:01 2022 +0700
+
+    Merge branch 'build-Hero-component' into develop
+
+[33mcommit 56d635eecef04c6d43b63356f356bbf013eedfec[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Thu Jul 14 11:42:30 2022 +0700
+
+    Re-structure for WalletConnect component and gendering markup for Header component and children components.
+
+[33mcommit 791f4ef6b86cb1c04b064a7e5ac0e3ce10b48eaa[m
+Author: Kien Duong <kienduong.hust@gmail.com>
+Date:   Thu Jul 14 10:03:19 2022 +0700
+
+    fixed error yarn build and add Hero component
+
+[33mcommit daaedee5a46ad8de5ce08295fc6b15c5603bcdfa[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Qvv <quynhvv@joomsolutions.com>
+Date:   Wed Jul 13 16:23:43 2022 +0700
+
+    Added sample for React Components.
+
+[33mcommit 0c8dcd15198586bc5d66b5ccc5caa6ad60df08e5[m
+Author: Tân Nguyễn <tanz.cntt@gmail.com>
+Date:   Sun Jul 10 05:53:30 2022 +0700
+
+    add comment
+
+[33mcommit fa8cef7ba51078e393fcd3d40173db08327bc21c[m
+Author: Tân Nguyễn <tanz.cntt@gmail.com>
+Date:   Sun Jul 10 05:51:38 2022 +0700
+
+    update sign login by wallet
+
+[33mcommit 0dc3ce2499a8f23f368dc8b102fb9975417d3323[m
+Author: tan <tanz.cntt@gmail.com>
+Date:   Sat Jun 18 21:48:00 2022 +0700
+
+    init
