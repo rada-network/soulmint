@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux';
 import { connectWallet } from 'src/ducks/wallets/wallets.operations';
 import { useSession, getCsrfToken, signIn } from 'next-auth/react';
 import { ethers } from 'ethers';
-import { subString } from 'src/libs/useFunc';
+import { ellipsify } from '../../../../utils/strUtils';
 import { useTranslation } from 'next-i18next';
 import providerOptions from './providers';
 // import { Modal } from './../Modal';
@@ -83,10 +83,10 @@ const ConnectWallet: FunctionComponent<ConnectWalletProps> = () => {
       status === 'authenticated' ? (
         <div>
           <DropDownMenu
-            name={subString({
+            name={ellipsify({
               str: session?.user?.name,
-              start: 5,
-              end: 3
+              start: 4,
+              end: 4
             })}
           />
         </div>
@@ -99,7 +99,7 @@ const ConnectWallet: FunctionComponent<ConnectWalletProps> = () => {
             type="button"
             data-modal-toggle="crypto-modal"
           >
-            Connect wallet
+            {t('Connect wallet')}
           </Button>
         </>
       );

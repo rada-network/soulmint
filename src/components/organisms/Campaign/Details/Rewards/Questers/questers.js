@@ -110,7 +110,7 @@ const Questers = (props) => {
               {ellipsify({
                 str: quester.user_created.email,
                 start: 4,
-                end: 6
+                end: 4
               })}
             </div>
           ))}
