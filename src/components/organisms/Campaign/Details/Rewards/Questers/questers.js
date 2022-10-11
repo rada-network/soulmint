@@ -7,7 +7,7 @@ import { useQuesters } from '../../../../../../hooks/Campaign/Rewards';
 import defaultClasses from './questers.module.css';
 import { useStyle } from '../../../../../classify';
 import { ellipsify } from '../../../../../../utils/strUtils';
-import { randomNumber } from '../../../../../../utils/numberUtils';
+import Avatar from 'boring-avatars';
 
 const Questers = (props) => {
   const { classes: propClasses, campaignId } = props;
@@ -93,10 +93,24 @@ const Questers = (props) => {
               title={quester.user_created.email}
               className={`${classes.questerAvt} bg-gray-100 text-gray-600`}
             >
+              <span className={`${classes.souldAvatar}`}>
+                <Avatar
+                  size={45}
+                  name={quester.user_created.email}
+                  variant="beam" //oneOf: marble (default), beam, pixel,sunset, ring, bauhaus
+                  colors={[
+                    '#92A1C6',
+                    '#146A7C',
+                    '#F0AB3D',
+                    '#C271B4',
+                    '#C20D90'
+                  ]}
+                />
+              </span>
               {ellipsify({
                 str: quester.user_created.email,
-                start: randomNumber(4, 12),
-                end: randomNumber(4, 12)
+                start: 4,
+                end: 6
               })}
             </div>
           ))}
