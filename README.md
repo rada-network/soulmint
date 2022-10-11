@@ -1,4 +1,4 @@
-# Rada SoulMint
+# Rada > SoulMint
 
 ## Setting VS Code (Prerequisite)
 
@@ -10,24 +10,23 @@ Install the following plugins
 - Prettier  
   https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-Install packages:
+## How to deploy:
+
+### Install dependencies packages:
 
 ```sh
 yarn install
 ```
 
-# development
+#### Development mode
 
 ```sh
 yarn dev
 ```
 
-# production
+#### Production mode
 
 ```sh
 yarn build
 yarn start
 ```
-
-// TODO: fix web3js issues with webpack 5 storybook.
-// TODO: improve bad codes.
