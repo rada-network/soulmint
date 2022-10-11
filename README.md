@@ -6,7 +6,6 @@ Install the following plugins
 
 - VS Code eslint  
   https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-
 - Prettier  
   https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
@@ -18,13 +17,13 @@ Install the following plugins
 yarn install
 ```
 
-#### Development mode
+### Development mode
 
 ```sh
 yarn dev
 ```
 
-#### Production mode
+### Production mode
 
 ```sh
 yarn build
