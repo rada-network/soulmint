@@ -19,7 +19,7 @@
 }
 
 .questerAvt {
-  @apply rounded-full flex flex-wrap items-center justify-center py-1 px-3 text-sm font-medium shadow-sm;
+  @apply rounded-full flex flex-wrap items-center justify-center py-1 px-3 text-sm font-medium shadow-sm bg-gray-100 text-gray-600;
 }
 
 .loadMore {
@@ -51,4 +51,8 @@
 
 .rootDark .infiniteFinished {
   @apply bg-gray-800 text-gray-600;
+}
+
+.souldAvatar {
+  margin: 0px 10px 0px 0px;
 }

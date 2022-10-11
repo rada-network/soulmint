@@ -11,7 +11,7 @@ import providerOptions from './providers';
 // import { Modal } from './../Modal';
 import DropDownMenu from './../DropdownMenu';
 import Button from 'src/components/atoms/Button';
-// import { toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 
 export type ConnectWalletProps = {
   name?: string;
@@ -71,7 +71,7 @@ const ConnectWallet: FunctionComponent<ConnectWalletProps> = () => {
       if (process.env.NODE_ENV !== 'production') {
         console.error(e);
       }
-      // toast.error(t('access denied'));
+      toast.warning(t('You must connect your wallet.'));
     }
   };
 

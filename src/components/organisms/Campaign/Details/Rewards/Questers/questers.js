@@ -91,7 +91,7 @@ const Questers = (props) => {
             <div
               key={quester.id}
               title={quester.user_created.email}
-              className={`${classes.questerAvt} bg-gray-100 text-gray-600`}
+              className={`${classes.questerAvt}`}
             >
               <span className={`${classes.souldAvatar}`}>
                 <Avatar

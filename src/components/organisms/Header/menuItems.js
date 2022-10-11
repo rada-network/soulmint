@@ -1,6 +1,6 @@
 import CreateLink from '../Campaign/createLink';
 
-const menuItems = new Map().set('Home', '/');
+const menuItems = new Map(); /*.set('Home', '/')*/
 // .set('How it works', '/how-it-works')
 // .set('NFT Collections', '/nft-collections');
 // .set('Browse campaigns', '/campaigns')
